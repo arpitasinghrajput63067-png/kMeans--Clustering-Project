@@ -1,4 +1,5 @@
 pandas
 matplotlib.pyplot
 streamlit
-sklearn.cluster
+scikit - learn
+
